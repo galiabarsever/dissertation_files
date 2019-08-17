@@ -1,0 +1,87 @@
+age,color,material,value,shape,dimension,physical,temporal,location,nationality,speed,human
+young,yellow,wooden,awful,round,tubby,dry,past,far,Chinese,quick,sleepy
+ripe,brown,plastic,brilliant,oval,fat,sharp,next,western,French,instant,sorry
+new,blue,iron,fantastic,square,narrow,hard,late,front,Mexican,slow,brave
+ancient,golden,wool,awesome,squiggly,flat,rough,historical ,south,Dutch,fast,angry
+teenage,tan,silk,okay,circular ,thin,damp,final,east,American,speedy,live
+old,pink,concrete,good,,huge,wet,early,side,English,,clever
+fresh,green,haired,nasty,,itsy,soft,second,upstairs,international,,mean
+senior,orange,corduroy ,bad,,tall,smooth,current,left,british,,vicious
+elderly,silver,crocheted ,horrid,,podgy,crunchy,future,back,european,,naughty
+old-time ,red,,horrible,,small,warm,recent,bottom,national ,,dumb
+junior ,white,,nice,,long,hot,everyday ,central,japanese ,,stupid
+,grey,,poor,,chubby,cold,daily ,high,brazilian ,,wicked
+,gold,,alright,,thick,fuzzy,,low,vietnamese ,,maternal
+,black,,great,,little,heavy,,glottal,hispanic ,,gentle
+,gray,,grand,,weeny,bumpy,,meadow,,,innocent
+,tawny,,crummy,,giant,fluffy,,close,,,crazy
+,pale,,odd,,eensie,salty,,top,,,healthy
+,purple,,weird,,teeny,hollow,,outer,,,dead
+,faint,,yucky,,tiny,empty,,northern,,,gloomy
+,bright,,dandy,,wee,waterproof,,regional,,,silly
+,dark,,wrong,,big,slippery,,internal,,,goofy
+,clear,,perfect,,weensie,crisp,,inner,,,hungry
+,wan,,nifty,,bitsy,dense,,north,,,sad
+,blonde,,special,,teensie,full,,local,,,merry
+,,,pathetic,,wide,sweet,,overhead ,,,attentive
+,,,correct,,large,fragile,,closest ,,,gracious
+,,,cute,,gigantic,crooked,,,,,whiny
+,,,regular,,short,strong,,,,,dizzy
+,,,fancy,,open,cool,,,,,cross
+,,,comfy,,trim,misshapen?,,,,,cranky
+,,,right,,skinny,spicey,,,,,fierce
+,,,exciting,,enormous,clean,,,,,human
+,,,illustrious,,massive,dirty,,,,,lazy
+,,,cozy,,deep,shiny,,,,,greedy
+,,,gorgeous,,mini ,bald,,,,,vain
+,,,beautiful,,biggest ,delicate,,,,,smart
+,,,precious,,,squeaky,,,,,happy
+,,,delicious,,,steep,,,,,grouchy
+,,,yummy,,,sparkly,,,,,smiley
+,,,tidy,,,light,,,,,royal
+,,,pretty,,,loud,,,,,fair
+,,,handy,,,quiet,,,,,grumpy
+,,,plain,,,slick,,,,,mad
+,,,ugly,,,solid,,,,,wise
+,,,bonnie,,,lacy ,,,,,kind
+,,,dulcet,,,curly ,,,,,sneaky
+,,,dear,,,creamy ,,,,,famous
+,,,junk,,,spicy ,,,,,sick
+,,,scary,,,frozen ,,,,,funny
+,,,rotten,,,,,,,,playful 
+,,,poop,,,,,,,,civilized 
+,,,strange,,,,,,,,selfish 
+,,,posh,,,,,,,,strict 
+,,,wild,,,,,,,,creative 
+,,,fun,,,,,,,,entrepreneurial 
+,,,neat,,,,,,,,professional 
+,,,just,,,,,,,,
+,,,major,,,,,,,,
+,,,useful,,,,,,,,
+,,,simple,,,,,,,,
+,,,cheap,,,,,,,,
+,,,comfortable,,,,,,,,
+,,,fine,,,,,,,,
+,,,expensive,,,,,,,,
+,,,gross,,,,,,,,
+,,,positive,,,,,,,,
+,,,negative,,,,,,,,
+,,,best,,,,,,,,
+,,,easy,,,,,,,,
+,,,basic,,,,,,,,
+,,,minor,,,,,,,,
+,,,difficult,,,,,,,,
+,,,pure,,,,,,,,
+,,,normal,,,,,,,,
+,,,important,,,,,,,,
+,,,significant,,,,,,,,
+,,,excellent,,,,,,,,
+,,,necessary,,,,,,,,
+,,,boring,,,,,,,,
+,,,average,,,,,,,,
+,,,practical,,,,,,,,
+,,,common,,,,,,,,
+,,,prestigious ,,,,,,,,
+,,,pleasant ,,,,,,,,
+,,,lavish ,,,,,,,,
+,,,favorite ,,,,,,,,
